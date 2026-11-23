@@ -31,10 +31,10 @@ Tasks completed in **Power BI**:
 - Data model creation using **Star Schema** (Date, Region, Return tables) and **Snowflake Schema** (Product hierarchy).
 - Added calculated columns for **Cost, Revenue, Profit**.
 - Designed a **4-page interactive report**:
-  1. **Homepage** – Title & navigation buttons.
-  2. **Executive Dashboard** – KPIs, Donut charts, Profit by Continent, Summary tables.
-  3. **Regional Orders** – Donut chart (Order Priority), Map (Country → State → City), Top 5 cities chart.
-  4. **Sales Page** – Returned vs Non-returned KPIs, Monthly performance tables, Revenue trend analysis.
+  1. **Homepage** 
+  2. **Executive Dashboard**
+  3. **Regional Orders** 
+  4. **Sales Page** 
 
 - Included slicers and navigation buttons for user interactivity.
 
@@ -42,10 +42,6 @@ Tasks completed in **Power BI**:
 
 ## 🔹 Part 3: SQL Project
 Tasks completed using **MySQL**:
-- **Data Ingestion & Normalization**
-  - Loaded `sales.csv` and `return_table.csv` into SQL database.
-  - Created **dimension tables** (`dim_location`, `dim_product`, `dim_category`, `dim_sub_category`).
-  - Built **fact_transaction** table with foreign keys.
 - **Business Insights via Queries**
   - Total Revenue, Net Revenue, and Profit calculations.
   - Order distribution by customer segment & shipping mode.
@@ -55,15 +51,6 @@ Tasks completed using **MySQL**:
   - Profitability insights (high-margin categories, negative profit products).
   - Customer & product behavior analysis (frequently bought together, multi-product orders).
   - Abnormal order/shipping cost detection.
-
----
-
-## 🚀 Key Highlights
-- Built a **complete analytics pipeline** across Excel, Power BI, and SQL.
-- Used **DAX & SQL queries** for deep KPI insights.
-- Designed **interactive dashboards** for executive decision-making.
-- Ensured **data integrity** through proper normalization & modeling.
-- Answered **20+ real business questions** through SQL analysis.
 
 ---
 
@@ -78,4 +65,3 @@ Tasks completed using **MySQL**:
 ## 🏆 Conclusion
 This project demonstrates the ability to work with **real-world datasets**, applying **data transformation, visualization, and analytical techniques** across different tools. The outcome provides actionable insights into **sales, returns, customer behavior, logistics, and profitability**, supporting **data-driven decision-making** in the e-commerce domain.
 
----
